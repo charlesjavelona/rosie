@@ -9,3 +9,6 @@ Generally, it's aimed to give back time to parents and busy individuals so they 
 - Notify authorities and owners of intruders
 - Feed and play with pets
 - A companion
+
+## Dead companies
+TBD
